@@ -1,10 +1,15 @@
 #PROGRAM INFORMATION:
 
 **TITLE:** MIDI Unbound
+
 **AUTHOR:** Eric Dauenhauer
 **VERSION:** 1.0
+
 **COPYRIGHT:** Copyright 2014 Eric Dauenhauer
+
 **LICENSE:** GNU GPL License (see gpl.txt in main directory)
+
+
 
 ## OVERVIEW
 This software provides the ability to bind desktop events to MIDI Control Changes. At this time it has only been tested on and packaged for Linux. Windows will come soon, I hope.
@@ -58,6 +63,7 @@ The purpose of this software is to expand the use of MIDI controllers beyond dig
     + Reset: Resets the values of the row.
 
 + This program allows for the saving of settings files.  Simply name the file and then load it the next time you want to use those settings.
+
 **! NOTE: The settings file is fairly primitive and may not behave correctly if edited.**
 
 
