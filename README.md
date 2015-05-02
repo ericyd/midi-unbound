@@ -32,18 +32,8 @@ The purpose of this software is to expand the use of MIDI controllers beyond dig
 
 + If you are launching from the Python script (not recommended), the script requires three third party modules:
     + wxPython: The GUI toolkit. Go to the [wxPython homepage](http://wiki.wxpython.org/How%20to%20install%20wxPython) for how to install this on your system
-    + Mido: Handles MIDI input. To install with pip, simply run: 
-    
-				pip install mido 
-            
-            Otherwise, source downloads are available [here](https://pypi.python.org/pypi/mido/1.1.6#downloads) or [here](https://github.com/olemb/mido/)
-    + Autopy: Performs keyboard emulation. To install on Windows, go to:
-    
-				https://pypi.python.org/pypi/autopy/
-				
-            For other OS, simply run: 
-            
-				easy_install autopy
+    + Mido: Handles MIDI input. To install with pip, simply run: `pip install mido`.  Otherwise, source downloads are available [here](https://pypi.python.org/pypi/mido/1.1.6#downloads) or [here](https://github.com/olemb/mido/)
+    + Autopy: Performs keyboard emulation. To install on Windows, go [here](https://pypi.python.org/pypi/autopy/).  For other OS, simply run `easy_install autopy`
 
 
 
