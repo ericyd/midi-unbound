@@ -1,0 +1,14 @@
+<midi-unbound_settings>
+  <info>
+    <filetype>Settings File for MIDI Unbound</filetype>
+    <date>Created 08/29/2014, 14:20:36</date>
+    <midi_input>Akai MPD26 MIDI 1</midi_input>
+  </info>
+  <settings>
+    <row row_number="0" midi_number="36" midi_label="MIDI Note" locked="False" eventType="Command" eventEntry="gedit"/>
+    <row row_number="1" midi_number="37" midi_label="MIDI Note" locked="False" eventType="Insert text" eventEntry="gfdhgdf"/>
+    <row row_number="2" midi_number="38" midi_label="MIDI Note" locked="False" eventType="Keyboard binding" eventEntry="&lt;ALT&gt; + F"/>
+    <row row_number="3" midi_number="0" midi_label="MIDI Note" locked="False" eventType="" eventEntry=""/>
+    <row row_number="4" midi_number="0" midi_label="MIDI Note" locked="False" eventType="" eventEntry=""/>
+  </settings>
+</midi-unbound_settings>

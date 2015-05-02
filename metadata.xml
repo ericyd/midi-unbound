@@ -1,0 +1,10 @@
+<about>
+    <name>MIDI Unbound</name>
+    <version>1.0</version>
+    <copyright>(C) 2014 Eric Dauenhauer</copyright>
+    <website>http://ericyd.co.nf</website>
+    <description>This program takes MIDI input from a standard MIDI controller and executes unrelated desktop functions</description>
+    <developer>Eric Dauenhauer</developer>
+    <artist>Eric Dauenhauer</artist>
+    <docwriter>Eric Dauenhauer</docwriter>
+</about>
