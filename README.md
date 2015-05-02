@@ -1,8 +1,7 @@
-#PROGRAM INFORMATION:
-
-**TITLE:** MIDI Unbound
+#MIDI Unbound
 
 **AUTHOR:** Eric Dauenhauer
+
 **VERSION:** 1.0
 
 **COPYRIGHT:** Copyright 2014 Eric Dauenhauer
